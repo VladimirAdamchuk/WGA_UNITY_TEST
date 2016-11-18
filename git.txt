@@ -1,0 +1,5 @@
+git init 
+git add имя_файла.расширение
+git commit -m "Твой мессадж в кавычках" 
+git remote add origin https://github.com/VladimirAdamchuk/WGA_UNITY_TEST.git - добавить репу
+git push -u origin master 
